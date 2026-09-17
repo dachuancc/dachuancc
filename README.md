@@ -26,6 +26,8 @@ I also enjoy building small, self-hosted tools that run on my own machines.
 
 - 📈 **[backtest-lab](https://github.com/dachuancc/backtest-lab)** — 轻量级向量化回测框架：信号 T+1 生效（杜绝未来函数）、按换手计提成本，输出净值曲线与绩效指标（夏普 / 最大回撤 / 卡玛）。
   <br/>*A lightweight vectorized backtesting framework — no look-ahead, turnover-based costs, equity curve & risk metrics.*
+- 📓 **[quant-notes](https://github.com/dachuancc/quant-notes)** — 量化研究背后的数学与统计笔记，与 backtest-lab 互为表里：notes 讲「**为什么**」，代码给「**怎么实现**」。
+  <br/>*Notes on the math & statistics behind quant research — the "why" behind backtest-lab's "how".*
 - 🃏 **[webpokerdealer](https://github.com/dachuancc/webpokerdealer)** — 家庭德州扑克发牌助手：服务端权威牌堆 + 按角色过滤视图，手机看底牌、平板当公牌桌。FastAPI + WebSocket + 单容器 Docker。
   <br/>*Self-hosted Texas Hold'em dealer — server-authoritative deck, per-role state filtering.*
 - 🧰 **[project-scaffold](https://github.com/dachuancc/project-scaffold)** — 项目脚手架：每个新仓库自带 ROADMAP / DECISIONS / AGENTS 文档，做到「仓库自描述」。
